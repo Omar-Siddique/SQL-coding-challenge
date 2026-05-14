@@ -149,14 +149,6 @@ SQL-Challenges-Portfolio/
 
 ---
 
-# 📌 Future Improvements
-- Stored Procedures
-- Query Optimization
-- SQL + Python Integration
-- Advanced Dashboards
-
----
-
 # 🤝 Connect With Me
 
 **Omar Siddique**  
