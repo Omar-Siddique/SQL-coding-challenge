@@ -32,6 +32,7 @@ Established FOREIGN KEY relationships between tables.
 Designed normalized healthcare schema structures.
 
 📚 2. OnlineBookStore_DB (Day 3:CRUD Operations)
+
 🎯 Objective
 
 Managing bookstore inventory and customer transactions.
@@ -47,7 +48,9 @@ Updated product pricing and inventory dynamically.
 Managed transactional data without impacting schema structure.
 
 🛒 3. ECommerce_DB ((Day 4-5:Data Analysis & Filtering)
+
 🎯 Objective
+
 Analyzing sales and extracting business insights from transactional data.
 🛠️ SQL Commands Used
 WHERE
@@ -64,8 +67,10 @@ AVG()
 COUNT()
 Generated revenue and inventory analysis reports.  
 
-4. Student_DB (Day 6:Relationship Management)
+4.🎓 Student_DB (Day 6:Relationship Management)
+
 🎯 Objective
+
 Connecting relational datasets for centralized reporting.
 🛠️ SQL Commands Used
 INNER JOIN
@@ -79,7 +84,9 @@ Combined student, course, and department datasets.
 Applied string functions for standardized data formatting.
 
 🏢 5. Company_DB (Day 7:Advanced SQL & Automation)
+
 🎯 Objective
+
 Implementing automation, auditing, and advanced business reporting.
 🛠️ SQL Commands Used
 CREATE TRIGGER
